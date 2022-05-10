@@ -25,31 +25,31 @@ Cronograma del curso detallado por fechas de clases teóricas y taller.
 Contenido del curso:
 --------------------
 
-## Unidad 1. **Introducción** *(2 semanas)*
+### Unidad 1: **Introducción** *(2 semanas)*
 **Temas**
 1. [Historia de los computadores]()
-2. Modelos de computación.
-3. Partes de los computadores.
-4. Cuál es el funcionamiento básico de los computadores.
+2. [Modelos de computación]()
+3. [Partes de los computadores]()
+4. [Cuál es el funcionamiento básico de los computadores]()
 
-## Unidad 2. **Introducción a la algoritmia** *(6 semanas)*
+### Unidad 2: **Introducción a la algoritmia** *(6 semanas)*
 **Temas**
-1. Representación binaria de la información.
-2. Elementos de pseudo-código.
-3. Diagramas de flujo.
-4. Variables.
-5. Condicionales. 
+1. [Representación binaria de la información]()
+2. [Elementos de pseudo-código]()
+3. [Diagramas de flujo]()
+4. [Variables]()
+5. [Condicionales]() 
 
-## Unidad 3. **Introducción a la programación** *(8 semanas)*
+### Unidad 3: **Introducción a la programación** *(8 semanas)*
 **Temas**
-1. Elementos principales del código Python.
-2. Variables.
-3. Condicionales.
-4. Listas.
-5. Iteraciones.
-6. Escritura y lectura de archivos.
-7. Graficación.
-8. Introducción a Pandas y Numpy. 
+1. [Elementos principales del código Python]()
+2. [Variables]()
+3. [Condicionales]()
+4. [Listas]()
+5. [Iteraciones]()
+6. [Escritura y lectura de archivos]()
+7. [Graficación]()
+8. [Introducción a Pandas y Numpy]()
 
 **Activities**
 - *Activity 01:* Solve the problems in the section [Exercises](https://github.com/sbustamante/ComputationalMethods/blob/master/material/Basic_exercises.ipynb). 
