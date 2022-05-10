@@ -16,9 +16,10 @@ El componente práctico se desarrollará casi en su totalidad en *Python*, pero 
 En este repositorio se puede encontrar todo el material relacionado con el curso, incluyendo el programa detallado, presentaciones, ejemplos (cuadernos de ipython) y tareas. (Este repositorio puede estar sujeto a cambios continuamente a medida que avanza el curso).
 
 
-[**Programa del curso**](https://github.com/sbustamante/ComputationalMethods/raw/master/syllabus/Programa_M%C3%A9todos_Computacionales.pdf):
-descripción detallada del programa del curso, incluyendo una breve motivación y presentación, temas a tratar, evaluación y bibliografía.
-
+[**Programa del curso:**](https://github.com/jacallem94/Fund.-Computaci-n/blob/main/Document/Programa_Curso_Fundamentaci%C3%B3n_En_Computaci%C3%B3n(0302150).pdf):
+Descripción detallada del programa del curso, incluyendo una breve motivación y presentación, temas a tratar, evaluación y bibliografía.
+[**Cronograma del curso:**](https://github.com/jacallem94/Fund.-Computaci-n/blob/main/Document/Cronograma_FundComputaci%C3%B3n_2022-1.pdf)
+Cronograma del curso detallado por fechas de clases teóricas y taller.
 
 Contents
 --------
