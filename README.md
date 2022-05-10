@@ -16,22 +16,40 @@ El componente práctico se desarrollará casi en su totalidad en *Python*, pero 
 En este repositorio se puede encontrar todo el material relacionado con el curso, incluyendo el programa detallado, presentaciones, ejemplos (cuadernos de ipython) y tareas. (Este repositorio puede estar sujeto a cambios continuamente a medida que avanza el curso).
 
 
-[**Programa del curso:**](https://github.com/jacallem94/Fund.-Computaci-n/blob/main/Document/Programa_Curso_Fundamentaci%C3%B3n_En_Computaci%C3%B3n(0302150).pdf):
+[**Programa del curso**](https://github.com/jacallem94/Fund.-Computaci-n/blob/main/Document/Programa_Curso_Fundamentaci%C3%B3n_En_Computaci%C3%B3n(0302150).pdf):
 Descripción detallada del programa del curso, incluyendo una breve motivación y presentación, temas a tratar, evaluación y bibliografía.
-[**Cronograma del curso:**](https://github.com/jacallem94/Fund.-Computaci-n/blob/main/Document/Cronograma_FundComputaci%C3%B3n_2022-1.pdf)
+
+[**Cronograma del curso**](https://github.com/jacallem94/Fund.-Computaci-n/blob/main/Document/Cronograma_FundComputaci%C3%B3n_2022-1.pdf)
 Cronograma del curso detallado por fechas de clases teóricas y taller.
 
-Contents
---------
+Contenido del curso:
+--------------------
 
-### 1. **Python** *(1 week)*
-    
-**Topics**
-- [Overview of python](http://nbviewer.ipython.org/github/sbustamante/ComputationalMethods/blob/master/material/overview-python.ipynb)
-- [Basic scripting](http://nbviewer.ipython.org/github/sbustamante/ComputationalMethods/blob/master/material/basic-scripting.ipynb)
-- [Implementation of scientific libraries](http://nbviewer.ipython.org/github/sbustamante/ComputationalMethods/blob/master/material/scientific-libraries.ipynb)
-- [Plotting with matplotlib](http://nbviewer.ipython.org/github/sbustamante/ComputationalMethods/blob/master/material/matplotlib.ipynb)
-- [Ipython notebooks](http://nbviewer.ipython.org/github/sbustamante/ComputationalMethods/blob/master/material/ipython-notebooks.ipynb)
+## Unidad 1. **Introducción** *(2 semanas)*
+**Temas**
+1. [Historia de los computadores]()
+2. Modelos de computación.
+3. Partes de los computadores.
+4. Cuál es el funcionamiento básico de los computadores.
+
+## Unidad 2. **Introducción a la algoritmia** *(6 semanas)*
+**Temas**
+1. Representación binaria de la información.
+2. Elementos de pseudo-código.
+3. Diagramas de flujo.
+4. Variables.
+5. Condicionales. 
+
+## Unidad 3. **Introducción a la programación** *(8 semanas)*
+**Temas**
+1. Elementos principales del código Python.
+2. Variables.
+3. Condicionales.
+4. Listas.
+5. Iteraciones.
+6. Escritura y lectura de archivos.
+7. Graficación.
+8. Introducción a Pandas y Numpy. 
 
 **Activities**
 - *Activity 01:* Solve the problems in the section [Exercises](https://github.com/sbustamante/ComputationalMethods/blob/master/material/Basic_exercises.ipynb). 
