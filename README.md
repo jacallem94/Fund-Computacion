@@ -1,6 +1,6 @@
 # Fundamentos en computación
 
-![](https://raw.githubusercontent.com/sbustamante/ComputationalMethods/master/material/figures/Collage.png)
+![](https://raw.githubusercontent.com/jacallem94/Fund.-Computaci-n/main/Figures/FundComp.png)
 
 Bienvenidos al curso de fundamentación en computación. Este curso pertenece al instituto de física de la Universidad de Antioquia y está dirigido a estudiantes de Astronomía y Física. En este se abordaran los conceptos básicos de la algoritmia y la programación utilizadas en ciencia e ingeniería. Se tiene como objetivo general dotar al estudiante de las herramientas computacionales básicas para la codificación de instrucciones usando lenguajes de programación, facilitando el desarrollo de sus tareas académicas y científicas futuras. Además, como objetivos especificos se tiene:
 
