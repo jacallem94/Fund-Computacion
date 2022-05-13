@@ -25,6 +25,8 @@ Cronograma del curso detallado por fechas de clases teóricas y taller.
 Contenido del curso:
 --------------------
 
+### [Documentos](https://github.com/jacallem94/Fund-Computacion/tree/main/Document)
+
 ### Unidad 1: **Introducción** *(2 semanas)*
 **Temas**
 1. [Historia de los computadores]()

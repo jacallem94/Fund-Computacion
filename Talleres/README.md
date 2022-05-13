@@ -22,16 +22,10 @@ Descripción detallada del programa del curso, incluyendo una breve motivación 
 [**Cronograma del curso**](https://github.com/jacallem94/Fund.-Computaci-n/blob/main/Document/Cronograma_FundComputaci%C3%B3n_2022-1.pdf)
 Cronograma del curso detallado por fechas de clases teóricas y taller.
 
-Material del curso:
--------------------
-
-1. [Presentaciones](https://github.com/jacallem94/Fund-Computacion/tree/main/Document)
-2. [Documentos](https://github.com/jacallem94/Fund-Computacion/tree/main/Document)
-3. [Talleres](https://github.com/jacallem94/Fund-Computacion/tree/main/Document)
-
-
 Contenido del curso:
 --------------------
+
+### [Documentos](https://github.com/jacallem94/Fund-Computacion/tree/main/Document)
 
 ### Unidad 1: **Introducción** *(2 semanas)*
 **Temas**
