@@ -26,6 +26,10 @@ Material del curso:
 -------------------
 
 1. [**Presentaciones**](https://github.com/jacallem94/Fund-Computacion/tree/main/Presentaciones)
+
+   - [Clase 1]()
+   - [Clase 2]()
+   
 2. [**Documentos**](https://github.com/jacallem94/Fund-Computacion/tree/main/Documentos)
    En esta sección puede encontrar todos los documentos relacionados con el curso de fundamentos en computación.
    
@@ -33,6 +37,10 @@ Material del curso:
    - [Cronograma](https://github.com/jacallem94/Fund-Computacion/blob/main/Documentos/Cronograma_FundComputaci%C3%B3n_2022-1.pdf)
 
 3. [**Talleres**](https://github.com/jacallem94/Fund-Computacion/tree/main/Talleres)
+
+   - [Taller 1]()
+   - [Taller 2]()
+   - [Taller 3]()
 
 
 Contenido del curso:
