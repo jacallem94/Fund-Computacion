@@ -25,9 +25,9 @@ Cronograma del curso detallado por fechas de clases teóricas y taller.
 Material del curso:
 -------------------
 
-1. [Presentaciones](https://github.com/jacallem94/Fund-Computacion/tree/main/Document)
-2. [Documentos](https://github.com/jacallem94/Fund-Computacion/tree/main/Document)
-3. [Talleres](https://github.com/jacallem94/Fund-Computacion/tree/main/Document)
+1. [**Presentaciones**](https://github.com/jacallem94/Fund-Computacion/tree/main/Presentaciones)
+2. [Documentos](https://github.com/jacallem94/Fund-Computacion/tree/main/Documentos)
+3. [Talleres](https://github.com/jacallem94/Fund-Computacion/tree/main/Talleres)
 
 
 Contenido del curso:
