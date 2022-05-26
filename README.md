@@ -1,6 +1,6 @@
-# Fundamentos en computación
+# Fundamentación en Computación
 
-![](https://raw.githubusercontent.com/jacallem94/Fund.-Computaci-n/main/Figures/FundComp.png)
+![](https://raw.githubusercontent.com/jacallem94/Fund.-Computacion/main/Figures/FundComp.png)
 
 Bienvenidos al curso de fundamentación en computación. Este curso pertenece al instituto de física de la Universidad de Antioquia y está dirigido a estudiantes de Astronomía y Física. En este se abordaran los conceptos básicos de la algoritmia y la programación utilizadas en ciencia e ingeniería. Se tiene como objetivo general dotar al estudiante de las herramientas computacionales básicas para la codificación de instrucciones usando lenguajes de programación, facilitando el desarrollo de sus tareas académicas y científicas futuras. Además, como objetivos especificos se tiene:
 
@@ -16,10 +16,10 @@ El componente práctico se desarrollará casi en su totalidad en *Python*, pero 
 En este repositorio se puede encontrar todo el material relacionado con el curso, incluyendo el programa detallado, presentaciones, ejemplos (cuadernos de ipython) y tareas. (Este repositorio puede estar sujeto a cambios continuamente a medida que avanza el curso).
 
 
-[**Programa del curso**](https://github.com/jacallem94/Fund.-Computaci-n/blob/main/Document/Programa_Curso_Fundamentaci%C3%B3n_En_Computaci%C3%B3n(0302150).pdf):
+[**Programa del curso**](https://github.com/jacallem94/Fund-Computacion/tree/main/Documentos/Programa_Curso_Fundamentaci%C3%B3n_En_Computaci%C3%B3n(0302150).pdf):
 Descripción detallada del programa del curso, incluyendo una breve motivación y presentación, temas a tratar, evaluación y bibliografía.
 
-[**Cronograma del curso**](https://github.com/jacallem94/Fund.-Computaci-n/blob/main/Document/Cronograma_FundComputaci%C3%B3n_2022-1.pdf)
+[**Cronograma del curso**](https://github.com/jacallem94/Fund-Computacion/tree/main/Documentos/Cronograma_FundComputaci%C3%B3n_2022-1.pdf)
 Cronograma del curso detallado por fechas de clases teóricas y taller.
 
 Material del curso:
@@ -28,7 +28,7 @@ Material del curso:
 1. [**Presentaciones**](https://github.com/jacallem94/Fund-Computacion/tree/main/Presentaciones)
 
    - [Clase 1]()
-   - [Clase 2]()
+  <!--- - [Clase 2]() -->
    
 2. [**Documentos**](https://github.com/jacallem94/Fund-Computacion/tree/main/Documentos)
    En esta sección puede encontrar todos los documentos relacionados con el curso de fundamentos en computación.
@@ -38,9 +38,9 @@ Material del curso:
 
 3. [**Talleres**](https://github.com/jacallem94/Fund-Computacion/tree/main/Talleres)
 
-   - [Taller 1]()
-   - [Taller 2]()
-   - [Taller 3]()
+  <!--- - [Taller 1]() -->
+  <!--- - [Taller 2]() -->
+  <!--- - [Taller 3]() -->
 
 
 Contenido del curso:
@@ -72,6 +72,6 @@ Contenido del curso:
 7. [Graficación]()
 8. [Introducción a Pandas y Numpy]()
 
-**Activities**
-- *Activity 01:* Solve the problems in the section [Exercises](https://github.com/sbustamante/ComputationalMethods/blob/master/material/Basic_exercises.ipynb). 
+<!---**Activities**
+- *Activity 01:* Solve the problems in the section [Exercises](https://github.com/sbustamante/ComputationalMethods/blob/master/material/Basic_exercises.ipynb). -->
 
