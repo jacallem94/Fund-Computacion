@@ -1,6 +1,6 @@
 # Fundamentación en computación
 
-![](https://raw.githubusercontent.com/jacallem94/Fund.-Computaci-n/main/Figures/FundComp.png)
+![](https://raw.githubusercontent.com/jacallem94/Fund-Computacion/main/Figures/FundComp.png)
 
 En esta carpeta puede encontrar los temas tratados en las clases prácticas y de taller del curso fundamentación en computación.
 
