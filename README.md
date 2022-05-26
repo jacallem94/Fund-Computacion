@@ -26,8 +26,8 @@ Material del curso:
 -------------------
 
 1. [**Presentaciones**](https://github.com/jacallem94/Fund-Computacion/tree/main/Presentaciones)
-
-   - [Clase 1]()
+   En esta sección puede encontrar las presentación ordenadas por cada clase.
+   - [Clase 1](https://github.com/jacallem94/Fund-Computacion/blob/main/Presentaciones/Clase1/Clase1.pdf)
   <!--- - [Clase 2]() -->
    
 2. [**Documentos**](https://github.com/jacallem94/Fund-Computacion/tree/main/Documentos)
@@ -37,7 +37,7 @@ Material del curso:
    - [Cronograma](https://github.com/jacallem94/Fund-Computacion/blob/main/Documentos/Cronograma_FundComputaci%C3%B3n_2022-1.pdf)
 
 3. [**Talleres**](https://github.com/jacallem94/Fund-Computacion/tree/main/Talleres)
-
+   En esta sección puede encontrar los talleres ordenadas por cada clase.
   <!--- - [Taller 1]() -->
   <!--- - [Taller 2]() -->
   <!--- - [Taller 3]() -->
@@ -48,7 +48,7 @@ Contenido del curso:
 
 ### Unidad 1: **Introducción** *(2 semanas)*
 **Temas**
-1. [Historia de los computadores]()
+1. [Historia de los computadores](https://github.com/jacallem94/Fund-Computacion/blob/main/Presentaciones/Clase1/Clase1.pdf)
 2. [Modelos de computación]()
 3. [Partes de los computadores]()
 4. [Cuál es el funcionamiento básico de los computadores]()
