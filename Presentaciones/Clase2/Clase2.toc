@@ -1,0 +1,9 @@
+\babel@toc {english}{}
+\beamer@sectionintoc {1}{CPU}{11}{0}{1}
+\beamer@sectionintoc {2}{Memorias}{19}{0}{2}
+\beamer@sectionintoc {3}{Placa base}{44}{0}{3}
+\beamer@sectionintoc {4}{Otros}{57}{0}{4}
+\beamer@subsectionintoc {4}{1}{Enfriamiento}{62}{0}{4}
+\beamer@subsectionintoc {4}{2}{Chasis}{66}{0}{4}
+\beamer@subsectionintoc {4}{3}{Perif\IeC {\'e}ricos}{72}{0}{4}
+\beamer@subsectionintoc {4}{4}{GPU}{90}{0}{4}
