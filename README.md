@@ -42,6 +42,9 @@ Material del curso:
    - [Taller 1](https://github.com/jacallem94/Fund-Computacion/blob/main/Talleres/Taller1/Taller1.pdf)
    - [Taller 2](https://github.com/jacallem94/Fund-Computacion/blob/main/Talleres/Taller2/Taller2.pdf)
 
+4. [**Tareas**](https://github.com/jacallem94/Fund-Computacion/tree/main/Tareas)
+   En esta sección puede encontrar las tareas asignadas correspondiente al taller.
+   - [Tarea 1](https://github.com/jacallem94/Fund-Computacion/blob/main/Tareas/Tarea_1_FundComputacion_2022_1.pdf)
 
 Contenido del curso:
 --------------------
