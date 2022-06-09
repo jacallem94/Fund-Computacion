@@ -28,7 +28,8 @@ Material del curso:
 1. [**Presentaciones**](https://github.com/jacallem94/Fund-Computacion/tree/main/Presentaciones)
    En esta sección puede encontrar las presentación ordenadas por cada clase.
    - [Clase 1](https://github.com/jacallem94/Fund-Computacion/blob/main/Presentaciones/Clase1/Clase1.pdf)
-  <!--- - [Clase 2]() -->
+   - [Clase 2](https://github.com/jacallem94/Fund-Computacion/blob/main/Presentaciones/Clase2/Clase2.pdf)
+   - [Clase 3](https://github.com/jacallem94/Fund-Computacion/blob/main/Presentaciones/Clase3/Clase3.pdf)
    
 2. [**Documentos**](https://github.com/jacallem94/Fund-Computacion/tree/main/Documentos)
    En esta sección puede encontrar todos los documentos relacionados con el curso de fundamentos en computación.
@@ -38,9 +39,8 @@ Material del curso:
 
 3. [**Talleres**](https://github.com/jacallem94/Fund-Computacion/tree/main/Talleres)
    En esta sección puede encontrar los talleres ordenadas por cada clase.
-  <!--- - [Taller 1]() -->
-  <!--- - [Taller 2]() -->
-  <!--- - [Taller 3]() -->
+   - [Taller 1](https://github.com/jacallem94/Fund-Computacion/blob/main/Talleres/Taller1/Taller1.pdf)
+   - [Taller 2](https://github.com/jacallem94/Fund-Computacion/blob/main/Talleres/Taller2/Taller2.pdf)
 
 
 Contenido del curso:
@@ -49,9 +49,9 @@ Contenido del curso:
 ### Unidad 1: **Introducción** *(2 semanas)*
 **Temas**
 1. [Historia de los computadores](https://github.com/jacallem94/Fund-Computacion/blob/main/Presentaciones/Clase1/Clase1.pdf)
-2. [Modelos de computación]()
-3. [Partes de los computadores]()
-4. [Cuál es el funcionamiento básico de los computadores]()
+2. [Modelos de computación](https://github.com/jacallem94/Fund-Computacion/blob/main/Presentaciones/Clase2/Clase2.pdf)
+3. [Partes de los computadores](https://github.com/jacallem94/Fund-Computacion/blob/main/Presentaciones/Clase2/Clase2.pdf)
+4. [Cuál es el funcionamiento básico de los computadores](https://github.com/jacallem94/Fund-Computacion/blob/main/Presentaciones/Clase3/Clase3.pdf)
 
 ### Unidad 2: **Introducción a la algoritmia** *(6 semanas)*
 **Temas**
