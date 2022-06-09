@@ -4,6 +4,6 @@
 
 En esta carpeta puede encontrar las tareas asignadas del curso fundamentación en computación.
 
-4. [**Talleres**](https://github.com/jacallem94/Fund-Computacion/tree/main/Talleres)
+4. [**Tareas**](https://github.com/jacallem94/Fund-Computacion/tree/main/Tareas)
 
   - [Tarea 1](https://github.com/jacallem94/Fund-Computacion/blob/main/Tareas/Tarea_1_FundComputacion_2022_1.pdf)
