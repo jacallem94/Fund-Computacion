@@ -1,0 +1,7 @@
+\babel@toc {english}{}\relax 
+\beamer@sectionintoc {1}{Sistemas de conteo}{15}{0}{1}
+\beamer@sectionintoc {2}{Álgebra Booleana}{29}{0}{2}
+\beamer@sectionintoc {3}{Procesadores}{54}{0}{3}
+\beamer@subsectionintoc {3}{1}{Transistor}{66}{0}{3}
+\beamer@subsectionintoc {3}{2}{Compuertas lógicas}{75}{0}{3}
+\beamer@subsectionintoc {3}{3}{Unidades de procesamiento}{87}{0}{3}
